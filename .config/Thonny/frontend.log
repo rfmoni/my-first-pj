@@ -1,0 +1,89 @@
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+ERROR: Problem when handling 'ToplevelResponse'
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/thonny/workbench.py", line 1598, in event_generate
+    handler(event)
+  File "/usr/lib/python3/dist-packages/thonny/assistance.py", line 132, in handle_toplevel_response
+    self._explain_exception(msg["user_exception"])
+  File "/usr/lib/python3/dist-packages/thonny/assistance.py", line 168, in _explain_exception
+    helpers = [
+  File "/usr/lib/python3/dist-packages/thonny/assistance.py", line 169, in <listcomp>
+    helper_class(error_info)
+  File "/usr/lib/python3/dist-packages/thonny/plugins/stdlib_error_helpers.py", line 465, in __init__
+    assert len(names) == 2
+AssertionError
+ERROR: Problem when handling 'ToplevelResponse'
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/thonny/workbench.py", line 1598, in event_generate
+    handler(event)
+  File "/usr/lib/python3/dist-packages/thonny/assistance.py", line 132, in handle_toplevel_response
+    self._explain_exception(msg["user_exception"])
+  File "/usr/lib/python3/dist-packages/thonny/assistance.py", line 168, in _explain_exception
+    helpers = [
+  File "/usr/lib/python3/dist-packages/thonny/assistance.py", line 169, in <listcomp>
+    helper_class(error_info)
+  File "/usr/lib/python3/dist-packages/thonny/plugins/stdlib_error_helpers.py", line 465, in __init__
+    assert len(names) == 2
+AssertionError
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+
+WARNING: MyPy: /usr/lib/python3/dist-packages is in the MYPYPATH. Please remove it.
+See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
+

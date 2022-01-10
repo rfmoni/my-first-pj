@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="libreoffice-calc.desktop" score="59" last-seen="1641710570"/>
+    <application id="firefox.desktop" score="143" last-seen="1641784405"/>
+    <application id="org.gnome.Nautilus.desktop" score="134" last-seen="1641784949"/>
+    <application id="org.thonny.Thonny.desktop" score="12610" last-seen="1641711383"/>
+    <application id="org.gnome.Terminal.desktop" score="15826" last-seen="1641784823"/>
+    <application id="org.gnome.gedit.desktop" score="289" last-seen="1641784946"/>
+    <application id="update-manager.desktop" score="1" last-seen="1641605054"/>
+  </context>
+</application-state>
